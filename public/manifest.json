@@ -1,0 +1,12 @@
+{
+  "name": "Star of the city",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "action": {
+    "title": "Star of the city(intiative test!",
+    "icon": "/agnes-tachyon-uma-musume.svg",
+    "popover": "/",
+    "height": 600,
+    "width": 400
+  }
+}
